@@ -1,0 +1,19 @@
+{
+  "name": "piyuy-ui-lib",
+  "version": "1.0.0",
+  "description": "General purpose web UI library. This is a POC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgalindo/piyuy-ui-lib.git"
+  },
+  "author": "Jesus Galindo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgalindo/piyuy-ui-lib/issues"
+  },
+  "homepage": "https://github.com/jgalindo/piyuy-ui-lib#readme"
+}
